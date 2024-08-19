@@ -1,7 +1,11 @@
 # Chat-Application
 
 This is a chat application using SOCKET.IO
+
+
 The technologies used are:
+
+
 Typescript, React, Socket.io, Node, express, Zod
 
 This is the Database Representation:
