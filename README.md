@@ -17,10 +17,10 @@ This is the Database Representation:
 
 
 # Can Send Multimedia
-![image alt] (https://github.com/lu3eSkywalker/Chat-Application/blob/e3b629eaf1b468cf2658d5e042ecc776c30e7d8a/Images/Can%20Send%20Multimedia.png)
+![image alt](https://github.com/lu3eSkywalker/Chat-Application/blob/e3b629eaf1b468cf2658d5e042ecc776c30e7d8a/Images/Can%20Send%20Multimedia.png)
 
 
 
 
 # Can Show Multiple Users Online
-![image alt] (https://github.com/lu3eSkywalker/Chat-Application/blob/e3b629eaf1b468cf2658d5e042ecc776c30e7d8a/Images/Multiple%20online%20Users.png)
+![image alt](https://github.com/lu3eSkywalker/Chat-Application/blob/e3b629eaf1b468cf2658d5e042ecc776c30e7d8a/Images/Multiple%20online%20Users.png)
